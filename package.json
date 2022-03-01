@@ -1,0 +1,28 @@
+{
+  "name": "generative-art",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "canvas-sketch": "^0.7.4",
+    "canvas-sketch-cli": "^1.11.14",
+    "canvas-sketch-util": "^1.10.0",
+    "nice-color-palettes": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "create": "canvas-sketch sketch.js --new --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heathercodes/generative-art.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heathercodes/generative-art/issues"
+  },
+  "homepage": "https://github.com/heathercodes/generative-art#readme"
+}
